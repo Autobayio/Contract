@@ -1,4 +1,4 @@
-# Contract
+# Smart Contract
 Update July 2018
 README ABX Token dev.
 
